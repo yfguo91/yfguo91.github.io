@@ -29,6 +29,7 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2022.09*: &nbsp;🎉🎉 One co-first-authored paper for spiking neural network is accepted by NeurIPS 2021. 
 
 # 📝 Selected Publications 
+
 ## 💻 Computer vision
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -55,7 +56,7 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/differential.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/differential.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Differentiable Spike: Rethinking Gradient-Descent for Training Spiking Neural Networks](https://proceedings.neurips.cc/paper/2021/file/c4ca4238a0b923820dcc509a6f75849b-Paper.pdf)
@@ -76,7 +77,7 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 - [Direct modifications of tetrahedral meshes](https://www.emerald.com/insight/content/doi/10.1108/EC-12-2019-0573/full/html), **Yufei Guo**, Yongqing Hai, Jianfei Liu, **Engineering Computations 2020**, First Author.
 
 # 🎖 Honors and Awards
-- *2017.11* the second prize of Wechat applet application development competition 2017.
+- *2017.11* The second prize of Wechat applet application development competition 2017.
 - *2016.10* The first prize of Huawei codecraft 2016.
 - *2014.10* China National Scholarship.  
 
