@@ -20,9 +20,9 @@ redirect_from:
 I work at X Lab as a research scientist now, leading the neuromorphic computing team and doing some fundamental neuromorphic computing-related research and engineering project. We are hiring researchers and engineers to work on neuromorphic computing, network binarization and quantization, object detection, SLAM, and path navigation. If interested, feel free to email me at yfguo@pku.edu.cn.
 
 My research interest includes computer vision and computational mechanics. 
----
+/*
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
----
+*/
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
