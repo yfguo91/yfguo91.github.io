@@ -91,5 +91,5 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 - *2011.09 - 2015.06*, Undergraduate, Beijing Institute of Technology, Beijing. 
 
 # 💻 Academic Services
-- *Reviewer* of Conferences: AAAI 2022, CVPR 2022, ECCV 2022, etc.
-- *Reviewer* of Journals: Computational Mechanics, Applied Mathematical Modelling, Engineering Computations, etc.
+- **Reviewer** of Conferences: AAAI 2022, CVPR 2022, ECCV 2022, etc.
+- **Reviewer** of Journals: Computational Mechanics, Applied Mathematical Modelling, Engineering Computations, etc.
