@@ -76,6 +76,9 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 - [Regular Position-Oriented Method for Mesh Smoothing](https://link.springer.com/article/10.1007/s10338-020-00201-z), Yongqing Hai, **Yufei Guo**\*, Siyuan Cheng, Yunpeng Hai, **Acta Mechanica Solida Sinica 2020**, Corresponding Author.
 - [Direct modifications of tetrahedral meshes](https://www.emerald.com/insight/content/doi/10.1108/EC-12-2019-0573/full/html), **Yufei Guo**, Yongqing Hai, Jianfei Liu, **Engineering Computations 2020**, First Author.
 
+# 💬 Invited Talks
+- *2021.06*, 
+
 # 🎖 Honors and Awards
 - *2017.11* The second prize of Wechat applet application development competition 2017.
 - *2016.10* The first prize of Huawei codecraft 2016.
@@ -85,9 +88,6 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 - *2015.09 - 2020.07*, Docter, Peking University, Beijing. 
 - *2011.09 - 2015.06*, Undergraduate, Beijing Institute of Technology, Beijing. 
 
-# 💬 Invited Talks
-- *2021.06*, 
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [megvii](https://www.megvii.com/), China.
-- *2014.06 - 2015.10*, [IBE](http://www.ibe.cn/), China.
+# 💻 Academic Services
+- *Reviewer* of Conferences: AAAI 2022, CVPR 2022, ECCV 2022, etc.
+- *Reviewer* of Journals: Computational Mechanics, Applied Mathematical Modelling, Engineering Computations, etc.
