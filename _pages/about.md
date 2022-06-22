@@ -28,7 +28,7 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2022.07*: &nbsp;🎉🎉 One first-authored paper for spiking neural network is accepted by CVPR 2022. 
 - *2022.09*: &nbsp;🎉🎉 One co-first-authored paper for spiking neural network is accepted by NeurIPS 2021. 
 
-# 📝 Selected Publications 
+# 📝 Publications 
 
 ## 📹 Computer vision
 <!--
