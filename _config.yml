@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yufei Guo"
-description              : "Yufei Guo's homepage. "
+description              : "Research scientist in X Lab. Graduating from Peking University. Focusing on computer vision and computational mechanics."
 repository               : "yfguo91/yfguo91.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yufei Guo (郭宇飞)"
   avatar           : "images/me.png"
-  bio              : "Research scientist in X Lab. Graduating from Peking University. Focusing on neuromorphic computing and computational mechanics."
+  bio              : "X Lab"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
