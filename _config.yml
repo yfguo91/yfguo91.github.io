@@ -23,7 +23,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yufei Guo (郭宇飞)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Research scientist in X Lab. Graduating from Peking University. Focusing on neuromorphic computing and computational mechanics."
+  bio              : "X Lab. 
+  
+  
+  Research scientist in X Lab. Graduating from Peking University. Focusing on neuromorphic computing and computational mechanics."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
