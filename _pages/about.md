@@ -85,7 +85,7 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 - *2014.10* China National Scholarship.  
 
 # 📖 Educations
-- *2015.09 - 2020.07*, Docter, Peking University, Beijing. 
+- *2015.09 - 2020.07*, Doctor, Peking University, Beijing. 
 - *2011.09 - 2015.06*, Undergraduate, Beijing Institute of Technology, Beijing. 
 
 # 💻 Academic Services
