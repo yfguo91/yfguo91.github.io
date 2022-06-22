@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yufei Guo (郭宇飞)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/me.png"
   bio              : "Research scientist in X Lab. Graduating from Peking University. Focusing on neuromorphic computing and computational mechanics."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  email            : "yfguo@pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
