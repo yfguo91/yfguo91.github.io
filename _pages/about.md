@@ -26,9 +26,9 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 🔥 News
 - *2022.07*: &nbsp;🎉🎉 One first-authored paper for spiking neural network is accepted by CVPR 2022. 
-- *2021.09*: &nbsp;🎉🎉 One first-authored paper about mesh smoothing based on neural network is accepted by Applied Mathematical Modelling Journal.
-- *2021.09*: &nbsp;🎉🎉 One co-first-authored paper for spiking neural network is accepted by NeurIPS 2021. 
-- *2020.07*: &nbsp;🎉🎉 I got my PhD from Peking University.
+- *2021.09*: &nbsp;🎷🎷 One first-authored paper about mesh smoothing based on neural network is accepted by Applied Mathematical Modelling Journal.
+- *2021.09*: &nbsp;🏆🏆 One co-first-authored paper for spiking neural network is accepted by NeurIPS 2021. 
+- *2020.07*: &nbsp;🎀🎀 I got my PhD from Peking University.
 
 # 📝 Publications 
 
