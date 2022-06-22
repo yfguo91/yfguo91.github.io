@@ -49,7 +49,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 [RecDis-SNN: Rectifying Membrane Potential Distribution for Directly Training Spiking Neural Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_RecDis-SNN_Rectifying_Membrane_Potential_Distribution_for_Directly_Training_Spiking_Neural_CVPR_2022_paper.pdf)
 
-**Yufei Guo\* **, Xinyi Tong\*, Yuanpei Chen, Liwen Zhang, Xiaode Liu, Zhe Ma, Xuhui Huang
+**Yufei Guo**\*, Xinyi Tong\*, Yuanpei Chen, Liwen Zhang, Xiaode Liu, Zhe Ma, Xuhui Huang
   
 - We present a new perspective to understand the difficulty of training SNNs by analyzing three undesired shifts of membrane potential distribution in forward propagation and the MPD-Loss to penalize the undesired shifts. 
 </div>
@@ -60,7 +60,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 [Differentiable Spike: Rethinking Gradient-Descent for Training Spiking Neural Networks](https://proceedings.neurips.cc/paper/2021/file/c4ca4238a0b923820dcc509a6f75849b-Paper.pdf)
 
-Yuhang Li\*, **Yufei Guo\* **, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi Gu
+Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi Gu
   
 - we propose a new family of Differentiable Spike (Dspike) functions that can adaptively evolve during training to find the optimal shape and smoothness for gradient estimation for spiking neural networks. 
 </div>
@@ -68,11 +68,11 @@ Yuhang Li\*, **Yufei Guo\* **, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi
 
 ## 🛠️ Computational mechanics
 
-- [A CAE-oriented mesh hole-filling algorithm focusing on geometry and quality](https://www.emerald.com/insight/content/doi/10.1108/EC-07-2021-0411/full/html), Yongqing Hai, **Yufei Guo**, Mo Dong, **Engineering Computations 2022**, Corresponding Author.
+- [A CAE-oriented mesh hole-filling algorithm focusing on geometry and quality](https://www.emerald.com/insight/content/doi/10.1108/EC-07-2021-0411/full/html), Yongqing Hai, **Yufei Guo**\*, Mo Dong, **Engineering Computations 2022**, Corresponding Author.
 - [A new mesh smoothing method based on a neural network](https://link.springer.com/article/10.1007/s00466-021-02097-z), **Yufei Guo**, Chuanrui Wang, Zhe Ma, Xuhui Huang, Kewu Sun, Rongli Zhao, **Computational Mechanics 2022**, First Author.
 - [An Improved Advancing-front-Delaunay Method for Triangular Mesh Generation](https://link.springer.com/article/10.1007/s00466-021-02097-z), **Yufei Guo**, Xuhui Huang, Zhe Ma, Rongli Zhao, Kewu Sun, **Computer Graphics International Conference 2021**, First Author.
-- [Adaptive surface mesh remeshing based on a sphere packing method and a node insertion/deletion method](https://www.sciencedirect.com/science/article/abs/pii/S0307904X21002353?via%3Dihub), **Yufei Guo**, Yongqing Hai\*, **Applied Mathematical Modelling 2021**, First Author.
-- [Regular Position-Oriented Method for Mesh Smoothing](https://link.springer.com/article/10.1007/s10338-020-00201-z), Yongqing Hai, **Yufei Guo**, Siyuan Cheng, Yunpeng Hai, **Acta Mechanica Solida Sinica 2020**, Corresponding Author.
+- [Adaptive surface mesh remeshing based on a sphere packing method and a node insertion/deletion method](https://www.sciencedirect.com/science/article/abs/pii/S0307904X21002353?via%3Dihub), **Yufei Guo**\*, Yongqing Hai\*, **Applied Mathematical Modelling 2021**, First Author.
+- [Regular Position-Oriented Method for Mesh Smoothing](https://link.springer.com/article/10.1007/s10338-020-00201-z), Yongqing Hai, **Yufei Guo**\*, Siyuan Cheng, Yunpeng Hai, **Acta Mechanica Solida Sinica 2020**, Corresponding Author.
 - [Direct modifications of tetrahedral meshes](https://www.emerald.com/insight/content/doi/10.1108/EC-12-2019-0573/full/html), **Yufei Guo**, Yongqing Hai, Jianfei Liu, **Engineering Computations 2020**, First Author.
 
 # 🎖 Honors and Awards
