@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at X Lab as a research scientist now, leading the neuromorphic computing team and doing some fundamental neuromorphic computing-related research and engineering project. We are hiring researchers and engineers to work on neuromorphic computing, network binarization and quantization, object detection, SLAM, and path navigation. If interested, feel free to email me at yfguo@pku.edu.cn.
+I work at X Lab as a research scientist now, leading the neuromorphic computing team and doing some fundamental neuromorphic computing-related research and engineering project. We are hiring researchers, engineers, and interns to work on neuromorphic computing, network compression, object detection, SLAM, path navigation and robtics. If interested, feel free to email me at yfguo@pku.edu.cn.
 
 My research interest includes computer vision and computational mechanics. I have published more than 10 papers at the top international AI conferences and Mathematics & Mechanics journals.
 <!--
@@ -25,10 +25,10 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
-- *2022.07*: &nbsp;🎉🎉 One first-authored paper for spiking neural network is accepted by CVPR 2022. 
-- *2021.09*: &nbsp;🎷🎷 One first-authored paper about mesh smoothing based on neural network is accepted by Applied Mathematical Modelling Journal.
-- *2021.09*: &nbsp;🏆🏆 One co-first-authored paper for spiking neural network is accepted by NeurIPS 2021. 
-- *2020.07*: &nbsp;🎀🎀 I got my PhD from Peking University.
+- *2022.04*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by CVPR 2022. 
+- *2021.09*: &nbsp;🎷 One first-authored paper about mesh smoothing based on neural network is accepted by Applied Mathematical Modelling Journal.
+- *2021.09*: &nbsp;🏆 One co-first-authored paper for spiking neural network is accepted by NeurIPS 2021. 
+- *2020.07*: &nbsp;🎀 I got my PhD from Peking University.
 
 # 📝 Publications 
 
