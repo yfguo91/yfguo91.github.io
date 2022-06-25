@@ -78,7 +78,7 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 - [Adaptive surface mesh remeshing based on a sphere packing method and a node insertion/deletion method](https://www.sciencedirect.com/science/article/abs/pii/S0307904X21002353?via%3Dihub), **Yufei Guo**\*, Yongqing Hai\*, **Applied Mathematical Modelling 2021**, First Author.
 - [Regular Position-Oriented Method for Mesh Smoothing](https://link.springer.com/article/10.1007/s10338-020-00201-z), Yongqing Hai, **Yufei Guo**\*, Siyuan Cheng, Yunpeng Hai, **Acta Mechanica Solida Sinica 2020**, Corresponding Author.
 - [Direct modifications of tetrahedral meshes](https://www.emerald.com/insight/content/doi/10.1108/EC-12-2019-0573/full/html), **Yufei Guo**, Yongqing Hai, Jianfei Liu, **Engineering Computations 2020**, First Author.
-- [Surface Adaptive Mesh Generation for STL Models Based on Ball-Packing Method]([https://www.emerald.com/insight/content/doi/10.1108/EC-12-2019-0573/full/html](https://www.jcad.cn/jcadcms/show.action?code=publish_402880124b362464014b3c4d819803a1&newsid=3b5491011cd34af2bb3043a6ef810cec)), **Yufei Guo**, Feifei Shang, Jianfei Liu, **Journal of Computer-Aided Design and Computer Graphics 2018**, First Author.
+- [Surface Adaptive Mesh Generation for STL Models Based on Ball-Packing Method](https://www.jcad.cn/jcadcms/show.action?code=publish_402880124b362464014b3c4d819803a1&newsid=3b5491011cd34af2bb3043a6ef810cec), **Yufei Guo**, Feifei Shang, Jianfei Liu, **Journal of Computer-Aided Design and Computer Graphics 2018**, First Author.
 
 # 💬 Invited Talks
 - *2022.08*, 
