@@ -46,7 +46,6 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </div>
 -->
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/recdis.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -70,12 +69,31 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 </div>
 
 ## 🛠️ Computational mechanics
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computational Mechanics 2022</div><img src='images/smoothing.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A new mesh smoothing method based on a neural network](https://link.springer.com/article/10.1007/s00466-021-02097-z)
+
+**Yufei Guo**, Chuanrui Wang, Zhe Ma, Xuhui Huang, Kewu Sun, Rongli Zhao
+  
+- We present a new smoothing method. The proposed method imitates the optimization-based smoothing based on a neural network, but it calculates the optimal position of a free node straightforwardly. Hence, the proposed method is more efficient than these optimization-based smoothing methods while being comparable in terms of mesh quality.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Mathematical Modelling 2021</div><img src='images/balls.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adaptive surface mesh remeshing based on a sphere packing method and a node insertion/deletion method](https://www.sciencedirect.com/science/article/abs/pii/S0307904X21002353?via%3Dihub)
+
+**Yufei Guo**\*, Yongqing Hai\*
+  
+- We present a triangular mesh remeshing method based on a sphere packing method and a node insertion/deletion method for surface meshes. The proposed method remeshes the surface mesh without projection of local areas, the intersection of fronts, Lloyd relaxation, and other complicated calculations, and the proposed method can generate a high-quality mesh without dependence on the quality of the original mesh, which make the method efficient and effective.
+</div>
+</div>
 
 - [A CAE-oriented mesh hole-filling algorithm focusing on geometry and quality](https://www.emerald.com/insight/content/doi/10.1108/EC-07-2021-0411/full/html), Yongqing Hai, **Yufei Guo**\*, Mo Dong, **Engineering Computations 2022**, Corresponding Author.
-- [A new mesh smoothing method based on a neural network](https://link.springer.com/article/10.1007/s00466-021-02097-z), **Yufei Guo**, Chuanrui Wang, Zhe Ma, Xuhui Huang, Kewu Sun, Rongli Zhao, **Computational Mechanics 2022**, First Author.
 - [Triangular Mesh Boolean Operation Method for Finite Element Analysis](https://www.china-simulation.com/CN/10.16182/j.issn1004731x.joss.20-0957), **Yufei Guo**, kang Zhao, Yongqing Hai, **Journal of System Simulation 2022**, First Author.
 - [An Improved Advancing-front-Delaunay Method for Triangular Mesh Generation](https://link.springer.com/article/10.1007/s00466-021-02097-z), **Yufei Guo**, Xuhui Huang, Zhe Ma, Rongli Zhao, Kewu Sun, **Computer Graphics International Conference 2021**, First Author.
-- [Adaptive surface mesh remeshing based on a sphere packing method and a node insertion/deletion method](https://www.sciencedirect.com/science/article/abs/pii/S0307904X21002353?via%3Dihub), **Yufei Guo**\*, Yongqing Hai\*, **Applied Mathematical Modelling 2021**, First Author.
 - [Regular Position-Oriented Method for Mesh Smoothing](https://link.springer.com/article/10.1007/s10338-020-00201-z), Yongqing Hai, **Yufei Guo**\*, Siyuan Cheng, Yunpeng Hai, **Acta Mechanica Solida Sinica 2020**, Corresponding Author.
 - [Direct modifications of tetrahedral meshes](https://www.emerald.com/insight/content/doi/10.1108/EC-12-2019-0573/full/html), **Yufei Guo**, Yongqing Hai, Jianfei Liu, **Engineering Computations 2020**, First Author.
 - [Surface Adaptive Mesh Generation for STL Models Based on Ball-Packing Method](https://www.jcad.cn/jcadcms/show.action?code=publish_402880124b362464014b3c4d819803a1&newsid=3b5491011cd34af2bb3043a6ef810cec), **Yufei Guo**, Feifei Shang, Jianfei Liu, **Journal of Computer-Aided Design and Computer Graphics 2018**, First Author.
