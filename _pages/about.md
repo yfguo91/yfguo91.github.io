@@ -25,10 +25,11 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2022.07*: &nbsp;🎉 Two first-authored papers for spiking neural network are accepted by ECCV 2022.
 - *2022.04*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by CVPR 2022. 
-- *2021.09*: &nbsp;🎷 One first-authored paper about mesh smoothing based on neural network is accepted by Applied Mathematical Modelling Journal.
-- *2021.09*: &nbsp;🏆 One co-first-authored paper for spiking neural network is accepted by NeurIPS 2021. 
-- *2020.07*: &nbsp;🎀 I got my PhD from Peking University.
+- *2021.09*: &nbsp;🎉 One first-authored paper about mesh smoothing based on neural network is accepted by Applied Mathematical Modelling Journal.
+- *2021.09*: &nbsp;🎉 One co-first-authored paper for spiking neural network is accepted by NeurIPS 2021. 
+- *2020.07*: &nbsp;🎉 I got my PhD from Peking University.
 
 # 📝 Publications 
 
@@ -46,6 +47,30 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </div>
 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/reloss.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reducing Information Loss for Spiking Neural Networks]()
+
+**Yufei Guo**\*, Yuanpei Chen\*, Liwen Zhang, YingLei Wang, Xiaode Liu, Xinyi Tong, Yuanyuan Ou, Xuhui Huang, Zhe Ma
+  
+- This work aims at addressing the information loss problem caused by the ''Hard Reset'' mechanism of neurons and the 0/1 spike quantification. Then, the SRIF
+model, which will drive the membrane potential to a dynamic reset potential, and the MPR that can adjust the membrane potential to a new value closer to quantification spikes than itself are proposed. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/real.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Real Spike: Learning Real-valued Spikes for Spiking Neural Networks]()
+
+**Yufei Guo**\*, Liwen Zhang\*, Yuanpei Chen, Xinyi Tong, Xiaode Liu, YingLei Wang, Xuhui Huang, Zhe Ma
+  
+- We proposed Real Spike, which aims at enhancing the representation capacity for an SNN by learning real-valued spikes during training and transferring the
+rich representation capacity into inference-time SNN by re-parameterizing the shared convolution kernel to different ones.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/recdis.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
