@@ -124,7 +124,7 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 - [Surface Adaptive Mesh Generation for STL Models Based on Ball-Packing Method](https://www.jcad.cn/jcadcms/show.action?code=publish_402880124b362464014b3c4d819803a1&newsid=3b5491011cd34af2bb3043a6ef810cec), **Yufei Guo**, Feifei Shang, Jianfei Liu, **Journal of Computer-Aided Design and Computer Graphics 2018**, First Author.
 
 # 💬 Invited Talks
-- *2022.08*, 
+- *2022.07*, I am invited to talk about Spiking Neural Networks at the conference on mathematics and aerospace.
 
 # 🎖 Honors and Awards
 - *2017.11* The second prize of Wechat applet application development competition 2017.
