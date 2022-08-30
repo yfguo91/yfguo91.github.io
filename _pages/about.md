@@ -116,6 +116,7 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 </div>
 </div>
 
+- [Enhanced optimal delaunay triangulation methods with connectivity regularization](http://www.amjcu.zju.edu.cn/amjcub/2020-2029/202203/453-469.pdf), Yongqing Hai, **Yufei Guo**\*, Rongli Zhao, Kewu Sun, Feifei Shang, **Appl. Math. J. Chinese Univ. 2022**, Corresponding Author.
 - [A CAE-oriented mesh hole-filling algorithm focusing on geometry and quality](https://www.emerald.com/insight/content/doi/10.1108/EC-07-2021-0411/full/html), Yongqing Hai, **Yufei Guo**\*, Mo Dong, **Engineering Computations 2022**, Corresponding Author.
 - [Triangular Mesh Boolean Operation Method for Finite Element Analysis](https://www.china-simulation.com/CN/10.16182/j.issn1004731x.joss.20-0957), **Yufei Guo**, kang Zhao, Yongqing Hai, **Journal of System Simulation 2022**, First Author.
 - [An Improved Advancing-front-Delaunay Method for Triangular Mesh Generation](https://link.springer.com/article/10.1007/s00466-021-02097-z), **Yufei Guo**, Xuhui Huang, Zhe Ma, Rongli Zhao, Kewu Sun, **Computer Graphics International Conference 2021**, First Author.
@@ -124,6 +125,7 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 - [Surface Adaptive Mesh Generation for STL Models Based on Ball-Packing Method](https://www.jcad.cn/jcadcms/show.action?code=publish_402880124b362464014b3c4d819803a1&newsid=3b5491011cd34af2bb3043a6ef810cec), **Yufei Guo**, Feifei Shang, Jianfei Liu, **Journal of Computer-Aided Design and Computer Graphics 2018**, First Author.
 
 # 💬 Invited Talks
+- *2022.08*, I am invited to talk about Spiking Neural Networks at the conference on intelligence and aerospace.
 - *2022.07*, I am invited to talk about Spiking Neural Networks at the conference on mathematics and aerospace.
 
 # 🎖 Honors and Awards
