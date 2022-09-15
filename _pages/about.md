@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at X Lab as a research scientist now, leading the neuromorphic computing team and doing some fundamental neuromorphic computing-related research and engineering project. We are hiring researchers, engineers, and interns to work on neuromorphic computing, network compression, object detection, SLAM, path navigation and robtics. If interested, feel free to email me at yfguo@pku.edu.cn.
+I work at S Lab as a research scientist now, leading the neuromorphic computing team and doing some fundamental neuromorphic computing-related research and engineering project. We are hiring researchers, engineers, and interns to work on neuromorphic computing, network compression, object detection, SLAM, path navigation and robtics. If interested, feel free to email me at yfguo@pku.edu.cn.
 
 My research interest includes computer vision and computational mechanics. I have published more than 10 papers at the top international AI conferences and Mathematics & Mechanics journals.
 <!--
@@ -25,6 +25,8 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2022.09*: &nbsp;🎉 One first-authored papers for spiking neural network is accepted by NeurIPS 2022.
+- *2022.09*: &nbsp;🎉 I get the support by national natural science foundation of China 2022.
 - *2022.07*: &nbsp;🎉 Two first-authored papers for spiking neural network are accepted by ECCV 2022.
 - *2022.04*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by CVPR 2022. 
 - *2021.09*: &nbsp;🎉 One first-authored paper about mesh smoothing based on neural network is accepted by Applied Mathematical Modelling Journal.
@@ -47,6 +49,18 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </div>
 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/imloss.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IM-Loss: Information Maximization Loss for Spiking Neural Networks]()
+
+**Yufei Guo**\*, Yuanpei Chen\*, Liwen Zhang, Xiaode Liu, YingLei Wang, Xuhui Huang, Zhe Ma
+  
+- We design a novel loss, IM-Loss, which can directly maximize the information expressiveness of an SNN, and introduce the ESG method for training SNN in a more appropriate way by incorporating a dynamically changing coefficient into a differentiable asymptotic function.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/reloss.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -129,6 +143,7 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 - *2022.07*, I am invited to talk about Spiking Neural Networks at the conference on mathematics and aerospace.
 
 # 🎖 Honors and Awards
+- *2022.09* The National Natural Science Foundation of China 2022.
 - *2017.11* The second prize of Wechat applet application development competition 2017.
 - *2016.10* The first prize of Huawei codecraft 2016.
 - *2014.10* China National Scholarship.  
