@@ -31,7 +31,6 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2022.04*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by CVPR 2022. 
 - *2021.09*: &nbsp;🎉 One first-authored paper about mesh smoothing based on neural network is accepted by Applied Mathematical Modelling Journal.
 - *2021.09*: &nbsp;🎉 One co-first-authored paper for spiking neural network is accepted by NeurIPS 2021. 
-- *2020.07*: &nbsp;🎉 I got my PhD from Peking University.
 
 # 📝 Publications 
 
@@ -52,7 +51,7 @@ I have published more than 100 papers at the top international AI conferences wi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/imloss.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IM-Loss: Information Maximization Loss for Spiking Neural Networks]()
+[IM-Loss: Information Maximization Loss for Spiking Neural Networks](https://openreview.net/pdf?id=Jw34v_84m2b) 
 
 **Yufei Guo**\*, Yuanpei Chen\*, Liwen Zhang, Xiaode Liu, YingLei Wang, Xuhui Huang, Zhe Ma
   
@@ -64,7 +63,7 @@ I have published more than 100 papers at the top international AI conferences wi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/reloss.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reducing Information Loss for Spiking Neural Networks]()
+[Reducing Information Loss for Spiking Neural Networks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710036.pdf) [**Code**](https://github.com/yfguo91/Re-Loss) 
 
 **Yufei Guo**\*, Yuanpei Chen\*, Liwen Zhang, YingLei Wang, Xiaode Liu, Xinyi Tong, Yuanyuan Ou, Xuhui Huang, Zhe Ma
   
@@ -76,7 +75,7 @@ model, which will drive the membrane potential to a dynamic reset potential, and
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/real.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real Spike: Learning Real-valued Spikes for Spiking Neural Networks]()
+[Real Spike: Learning Real-valued Spikes for Spiking Neural Networks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720052.pdf) [**Code**](https://github.com/yfguo91/Real-Spike) 
 
 **Yufei Guo**\*, Liwen Zhang\*, Yuanpei Chen, Xinyi Tong, Xiaode Liu, YingLei Wang, Xuhui Huang, Zhe Ma
   
@@ -144,14 +143,11 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 
 # 🎖 Honors and Awards
 - *2022.09* The National Natural Science Foundation of China 2022.
-- *2017.11* The second prize of Wechat applet application development competition 2017.
-- *2016.10* The first prize of Huawei codecraft 2016.
-- *2014.10* China National Scholarship.  
 
 # 📖 Educations
 - *2015.09 - 2020.07*, Doctor, Peking University, Beijing. 
 - *2011.09 - 2015.06*, Undergraduate, Beijing Institute of Technology, Beijing. 
 
 # 💻 Academic Services
-- **Reviewer** of Conferences: AAAI 2022, CVPR 2022, ECCV 2022, etc.
+- **Reviewer** of Conferences: AAAI, CVPR, ECCV, NeurIPS, etc.
 - **Reviewer** of Journals: Computational Mechanics, Applied Mathematical Modelling, Engineering Computations, etc.
