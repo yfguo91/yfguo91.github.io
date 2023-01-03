@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yufei Guo"
-description              : "Research scientist in X Lab. Graduating from Peking University. Focusing on computer vision and computational mechanics."
+description              : "Research scientist in S Lab. Graduating from Peking University. Focusing on computer vision and computational mechanics."
 repository               : "yfguo91/yfguo91.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "yfguo@pku.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yufei-Guo-11/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/yfguo91"
   google_plus      :
   keybase          :
   instagram        :
