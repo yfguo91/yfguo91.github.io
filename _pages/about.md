@@ -63,7 +63,9 @@ I have published more than 100 papers at the top international AI conferences wi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/reloss.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reducing Information Loss for Spiking Neural Networks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710036.pdf) [**Code**](https://github.com/yfguo91/Re-Loss) 
+[Reducing Information Loss for Spiking Neural Networks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710036.pdf) 
+  
+🖥️[**Code**](https://github.com/yfguo91/Re-Loss) 📰[**Paper**](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710036.pdf)
 
 **Yufei Guo**\*, Yuanpei Chen\*, Liwen Zhang, YingLei Wang, Xiaode Liu, Xinyi Tong, Yuanyuan Ou, Xuhui Huang, Zhe Ma
   
@@ -75,8 +77,10 @@ model, which will drive the membrane potential to a dynamic reset potential, and
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/real.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real Spike: Learning Real-valued Spikes for Spiking Neural Networks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720052.pdf) [**Code**](https://github.com/yfguo91/Real-Spike) 
+[Real Spike: Learning Real-valued Spikes for Spiking Neural Networks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720052.pdf)
 
+🖥️[**Code**](https://github.com/yfguo91/Real-Spike) 📰[**Paper**](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720052.pdf)
+  
 **Yufei Guo**\*, Liwen Zhang\*, Yuanpei Chen, Xinyi Tong, Xiaode Liu, YingLei Wang, Xuhui Huang, Zhe Ma
   
 - We proposed Real Spike, which aims at enhancing the representation capacity for an SNN by learning real-valued spikes during training and transferring the
@@ -110,8 +114,10 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computational Mechanics 2022</div><img src='images/smoothing.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A new mesh smoothing method based on a neural network](https://link.springer.com/article/10.1007/s00466-021-02097-z) [**Code**](https://github.com/yfguo91/meshsmoothing) 
+[A new mesh smoothing method based on a neural network](https://link.springer.com/article/10.1007/s00466-021-02097-z)
 
+🖥️[**Code**](https://github.com/yfguo91/meshsmoothing) 📰[**Paper**](https://link.springer.com/article/10.1007/s00466-021-02097-z)
+  
 **Yufei Guo**, Chuanrui Wang, Zhe Ma, Xuhui Huang, Kewu Sun, Rongli Zhao
   
 - We present a new smoothing method. The proposed method imitates the optimization-based smoothing based on a neural network, but it calculates the optimal position of a free node straightforwardly. Hence, the proposed method is more efficient than these optimization-based smoothing methods while being comparable in terms of mesh quality.
@@ -121,8 +127,10 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Mathematical Modelling 2021</div><img src='images/balls.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adaptive surface mesh remeshing based on a sphere packing method and a node insertion/deletion method](https://www.sciencedirect.com/science/article/abs/pii/S0307904X21002353?via%3Dihub) [**Code**](https://github.com/yfguo91/remesh) 
+[Adaptive surface mesh remeshing based on a sphere packing method and a node insertion/deletion method](https://www.sciencedirect.com/science/article/abs/pii/S0307904X21002353?via%3Dihub) 
 
+🖥️[**Code**](https://github.com/yfguo91/remesh) 📰[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0307904X21002353?via%3Dihub)
+  
 **Yufei Guo**\*, Yongqing Hai\*
   
 - We present a triangular mesh remeshing method based on a sphere packing method and a node insertion/deletion method for surface meshes. The proposed method remeshes the surface mesh without projection of local areas, the intersection of fronts, Lloyd relaxation, and other complicated calculations, and the proposed method can generate a high-quality mesh without dependence on the quality of the original mesh, which make the method efficient and effective.
