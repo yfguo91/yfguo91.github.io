@@ -25,7 +25,8 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
-- *2022.09*: &nbsp;🎉 One first-authored papers for spiking neural network is accepted by NeurIPS 2022.
+- *2022.02*: &nbsp;🎉 Two papers are accepted by CVPR2023, including one corresponding-authored paper for 3D object detection.
+- *2022.09*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by NeurIPS 2022.
 - *2022.09*: &nbsp;🎉 I get the support by national natural science foundation of China 2022.
 - *2022.07*: &nbsp;🎉 Two first-authored papers for spiking neural network are accepted by ECCV 2022.
 - *2022.04*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by CVPR 2022. 
@@ -34,7 +35,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 📝 Publications 
 
-## 📹 Computer vision
+## 🖥️ Machine learning
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,6 +49,7 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </div>
 -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/imloss.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -107,6 +109,22 @@ rich representation capacity into inference-time SNN by re-parameterizing the sh
 Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi Gu
   
 - We propose a new family of Differentiable Spike (Dspike) functions that can adaptively evolve during training to find the optimal shape and smoothness for gradient estimation for spiking neural networks. 
+</div>
+</div>
+
+- [PeakConv: Learning Peak Receptive Field for Radar Semantic Segmentation](), Liwen Zhang, Xinyan Zhang, Youcheng Zhang, **Yufei Guo**, Yuanpei Chen, Xuhui Huang, Zhe Ma, **CVPR 2023**.
+- 
+## 📹 Computer vision
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/gciou.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Dive into Gradients: Better Optimization for 3D Object Detection with Gradient-Corrected IoU Supervision]()
+
+Qi Ming, Lingjuan Miao, Zhe Ma, Lin Zhao, Zhiqiang Zhou, Xuhui Huang, Yuanpei Chen, **Yufei Guo**\*
+  
+- In this paper, we demonstrate through experiments and mathematical proof that the gradients of 3D IoU loss w.r.t. angle error and the object scale change abnormally during training. On this basis, we propose a gradient-correction IoU loss to achieve fast and accurate convergence by optimizing the gra-
+dient.
 </div>
 </div>
 
