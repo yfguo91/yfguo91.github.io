@@ -121,7 +121,7 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 
 [Deep Dive into Gradients: Better Optimization for 3D Object Detection with Gradient-Corrected IoU Supervision]()
 
-Qi Ming, Lingjuan Miao, Zhe Ma, Lin Zhao, Zhiqiang Zhou, Xuhui Huang, Yuanpei Chen, **Yufei Guo**\*
+Qi Ming, Lingjuan Miao, Zhe Ma, Lin Zhao, Zhiqiang Zhou, Xuhui Huang, Yuanpei Chen, **Yufei Guo**
   
 - In this paper, we demonstrate through experiments and mathematical proof that the gradients of 3D IoU loss w.r.t. angle error and the object scale change abnormally during training. Then, we propose a gradient-correction IoU loss for optimizing the gradient.
 </div>
