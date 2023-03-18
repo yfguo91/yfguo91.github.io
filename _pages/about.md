@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at S Lab as a research scientist now, leading the neuromorphic computing team and doing some fundamental neuromorphic computing-related research and engineering project. We are hiring researchers, engineers, and interns to work on neuromorphic computing, network compression, object detection, SLAM, path navigation and robtics. If interested, feel free to email me at yfguo@pku.edu.cn.
+I work at S Lab as a research scientist now, leading the advanced intelligent computing team and doing some fundamental intelligent computing-related research and engineering project. We are hiring researchers, engineers, and interns to work on neuromorphic computing, network compression, object detection, SLAM, path navigation and robtics. If interested, feel free to email me at yfguo@pku.edu.cn.
 
-My research interest includes computer vision and computational mechanics. I have published more than 10 papers at the top international AI conferences and Mathematics & Mechanics journals.
+My research interest includes machine learning, computer vision, and computational mechanics. I have published more than 10 papers at the top international AI conferences and Mathematics & Mechanics journals.
 <!--
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
