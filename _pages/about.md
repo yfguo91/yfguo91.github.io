@@ -25,7 +25,7 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
-- *2023.04*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by Pattern Recognition journal.
+- *2023.04*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by the Pattern Recognition journal.
 - *2023.02*: &nbsp;🎉 Two papers are accepted by CVPR2023, including one corresponding-authored paper for 3D object detection.
 - *2022.09*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by NeurIPS 2022.
 - *2022.09*: &nbsp;🎉 I get the support by national natural science foundation of China 2022.
@@ -50,6 +50,17 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </div>
 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2022</div><img src='images/distill.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Joint A-SNN: Joint Training of Artificial and Spiking Neural Networks via Self-Distillation and Weight Factorization](https://linkinghub.elsevier.com/retrieve/pii/S0031320323003400) 
+
+**Yufei Guo**\*, Weihang Peng\*, Yuanpei Chen, Liwen Zhang, Xiaode Liu, Xuhui Huang, Zhe Ma
+  
+- In this paper, we have introduced the joint-training framework of ANN and SNN. Our framework consists of two core ingredients, the first is self-distillation from multiple branches, and the second is weight-factorized training assisted by the Singular Value Decomposition. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/imloss.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
