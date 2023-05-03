@@ -25,6 +25,7 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2023.04*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by Pattern Recognition journal.
 - *2023.02*: &nbsp;🎉 Two papers are accepted by CVPR2023, including one corresponding-authored paper for 3D object detection.
 - *2022.09*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by NeurIPS 2022.
 - *2022.09*: &nbsp;🎉 I get the support by national natural science foundation of China 2022.
