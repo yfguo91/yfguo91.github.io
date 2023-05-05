@@ -166,7 +166,7 @@ Qi Ming, Lingjuan Miao, Zhe Ma, Lin Zhao, Zhiqiang Zhou\*, Xuhui Huang, Yuanpei 
 </div>
 </div>
 
-- [B-repconstruction, defeaturing, and meshing algorithms for discretized model](https://kns.cnki.net/kcms/detail/detail.aspx?filename=ZKZX202304015&dbname=cjfdtotal&dbcode=CJFD&v=MDYzMzRpUXJSY3pGckNVUjdtZll1WnJGeUhoVUwzS1B5YlJkckc0SE5MTXE0OUVZWVI2RGc4L3poWVU3enNPVDM=), **Yufei Guo**, Kewu Sun, Rongli Zhao, Yinglei Wang, Yuanpei Chen, Zhibin Wang, **China Sciencepaper 2023**, First Author.
+- [B-rep construction, defeaturing, and meshing algorithms for discretized model](https://kns.cnki.net/kcms/detail/detail.aspx?filename=ZKZX202304015&dbname=cjfdtotal&dbcode=CJFD&v=MDYzMzRpUXJSY3pGckNVUjdtZll1WnJGeUhoVUwzS1B5YlJkckc0SE5MTXE0OUVZWVI2RGc4L3poWVU3enNPVDM=), **Yufei Guo**, Kewu Sun, Rongli Zhao, Yinglei Wang, Yuanpei Chen, Zhibin Wang, **China Sciencepaper 2023**, First Author.
 - [Enhanced optimal delaunay triangulation methods with connectivity regularization](http://www.amjcu.zju.edu.cn/amjcub/2020-2029/202203/453-469.pdf), Yongqing Hai, **Yufei Guo**\*, Rongli Zhao, Kewu Sun, Feifei Shang, **Appl. Math. J. Chinese Univ. 2022**, Corresponding Author.
 - [A CAE-oriented mesh hole-filling algorithm focusing on geometry and quality](https://www.emerald.com/insight/content/doi/10.1108/EC-07-2021-0411/full/html), Yongqing Hai, **Yufei Guo**\*, Mo Dong, **Engineering Computations 2022**, Corresponding Author.
 - [Triangular Mesh Boolean Operation Method for Finite Element Analysis](https://www.china-simulation.com/CN/10.16182/j.issn1004731x.joss.20-0957), **Yufei Guo**, kang Zhao, Yongqing Hai, **Journal of System Simulation 2022**, First Author.
