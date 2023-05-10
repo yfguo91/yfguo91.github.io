@@ -168,18 +168,24 @@ Qi Ming, Lingjuan Miao, Zhe Ma, Lin Zhao, Zhiqiang Zhou\*, Xuhui Huang, Yuanpei 
 
 [B-rep construction, defeaturing, and meshing algorithms for discretized model](https://kns.cnki.net/kcms/detail/detail.aspx?filename=ZKZX202304015&dbname=cjfdtotal&dbcode=CJFD&v=MDYzMzRpUXJSY3pGckNVUjdtZll1WnJGeUhoVUwzS1B5YlJkckc0SE5MTXE0OUVZWVI2RGc4L3poWVU3enNPVDM=), **China Sciencepaper 2023**
 - **Yufei Guo**, Kewu Sun, Rongli Zhao, Yinglei Wang, Yuanpei Chen, Zhibin Wang,  **First Author**.
+
 [Enhanced optimal delaunay triangulation methods with connectivity regularization](http://www.amjcu.zju.edu.cn/amjcub/2020-2029/202203/453-469.pdf),  **Appl. Math. J. Chinese Univ. 2022**
 - Yongqing Hai, **Yufei Guo**\*, Rongli Zhao, Kewu Sun, Feifei Shang, **Corresponding Author**.
+
 [A CAE-oriented mesh hole-filling algorithm focusing on geometry and quality](https://www.emerald.com/insight/content/doi/10.1108/EC-07-2021-0411/full/html), **Engineering Computations 2022**
 - Yongqing Hai, **Yufei Guo**\*, Mo Dong, **Corresponding Author**.
+
 [Triangular Mesh Boolean Operation Method for Finite Element Analysis](https://www.china-simulation.com/CN/10.16182/j.issn1004731x.joss.20-0957), **Journal of System Simulation 2022**
 - **Yufei Guo**, kang Zhao, Yongqing Hai, **First Author**.
+
 [An Improved Advancing-front-Delaunay Method for Triangular Mesh Generation](https://link.springer.com/article/10.1007/s00466-021-02097-z), **Computer Graphics International Conference 2021**
 - **Yufei Guo**, Xuhui Huang, Zhe Ma, Rongli Zhao, Kewu Sun, **First Author**.
+
 [Regular Position-Oriented Method for Mesh Smoothing](https://link.springer.com/article/10.1007/s10338-020-00201-z), **Acta Mechanica Solida Sinica 2020**
 - Yongqing Hai, **Yufei Guo**\*, Siyuan Cheng, Yunpeng Hai,  **Corresponding Author**.
 [Direct modifications of tetrahedral meshes](https://www.emerald.com/insight/content/doi/10.1108/EC-12-2019-0573/full/html), **Engineering Computations 2020**
 - **Yufei Guo**, Yongqing Hai, Jianfei Liu, **First Author**.
+
 [Surface Adaptive Mesh Generation for STL Models Based on Ball-Packing Method](https://www.jcad.cn/jcadcms/show.action?code=publish_402880124b362464014b3c4d819803a1&newsid=3b5491011cd34af2bb3043a6ef810cec), **Journal of Computer-Aided Design and Computer Graphics 2018**
 - **Yufei Guo**, Feifei Shang, Jianfei Liu, **First Author**.
 
