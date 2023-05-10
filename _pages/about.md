@@ -124,7 +124,8 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 </div>
 </div>
 
-- [PeakConv: Learning Peak Receptive Field for Radar Semantic Segmentation](), Liwen Zhang, Xinyan Zhang, Youcheng Zhang, **Yufei Guo**, Yuanpei Chen, Xuhui Huang, Zhe Ma, **CVPR 2023**.
+[PeakConv: Learning Peak Receptive Field for Radar Semantic Segmentation]()
+- Liwen Zhang, Xinyan Zhang, Youcheng Zhang, **Yufei Guo**, Yuanpei Chen, Xuhui Huang, Zhe Ma, **CVPR 2023**.
 
 
 ## 📹 Computer vision
@@ -183,6 +184,7 @@ Qi Ming, Lingjuan Miao, Zhe Ma, Lin Zhao, Zhiqiang Zhou\*, Xuhui Huang, Yuanpei 
 
 [Regular Position-Oriented Method for Mesh Smoothing](https://link.springer.com/article/10.1007/s10338-020-00201-z), **Acta Mechanica Solida Sinica 2020**
 - Yongqing Hai, **Yufei Guo**\*, Siyuan Cheng, Yunpeng Hai,  **Corresponding Author**.
+
 [Direct modifications of tetrahedral meshes](https://www.emerald.com/insight/content/doi/10.1108/EC-12-2019-0573/full/html), **Engineering Computations 2020**
 - **Yufei Guo**, Yongqing Hai, Jianfei Liu, **First Author**.
 
