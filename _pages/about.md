@@ -125,7 +125,7 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 </div>
 
 [PeakConv: Learning Peak Receptive Field for Radar Semantic Segmentation](), **CVPR 2023**
-- Liwen Zhang, Xinyan Zhang, Youcheng Zhang, **Yufei Guo**, Yuanpei Chen, Xuhui Huang, Zhe Ma, **CVPR 2023**.
+- Liwen Zhang, Xinyan Zhang, Youcheng Zhang, **Yufei Guo**, Yuanpei Chen, Xuhui Huang, Zhe Ma.
 
 
 ## 📹 Computer vision
