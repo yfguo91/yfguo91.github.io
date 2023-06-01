@@ -43,7 +43,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 [Direct Learning-Based Deep Spiking Neural Networks: A Review](https://arxiv.org/abs/2305.19725)
 
-**Yufei Guo **, Xuhui Huang, Zhe Ma
+**Yufei Guo**, Xuhui Huang, Zhe Ma
 
 - In this paper, we present a comprehensive survey of these direct learning-based deep SNN works, mainly categorized into accuracy improvement methods, efficiency improvement methods, and temporal dynamics utilization methods.
 </div>
