@@ -25,6 +25,7 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2023.06*: &nbsp;🎉 One first-authored paper for reviewing spiking neural network is accepted by the Frontiers in Neuroscience journal.
 - *2023.04*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by the Pattern Recognition journal.
 - *2023.02*: &nbsp;🎉 Two papers are accepted by CVPR2023, including one corresponding-authored paper for 3D object detection.
 - *2022.09*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by NeurIPS 2022.
@@ -35,6 +36,18 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2021.09*: &nbsp;🎉 One co-first-authored paper for spiking neural network is accepted by NeurIPS 2021. 
 
 # 📝 Publications 
+
+## 📓 Review
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Neuroscience 2022</div><img src='images/review.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Direct Learning-Based Deep Spiking Neural Networks: A Review](https://arxiv.org/abs/2305.19725)
+
+**Yufei Guo **, Xuhui Huang, Zhe Ma
+
+- In this paper, we present a comprehensive survey of these direct learning-based deep SNN works, mainly categorized into accuracy improvement methods, efficiency improvement methods, and temporal dynamics utilization methods.
+</div>
+</div>
 
 ## 🖥️ Machine learning
 <!--
