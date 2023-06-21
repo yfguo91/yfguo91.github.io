@@ -80,11 +80,14 @@ I have published more than 100 papers at the top international AI conferences wi
 
 [IM-Loss: Information Maximization Loss for Spiking Neural Networks](https://openreview.net/pdf?id=Jw34v_84m2b) 
 
+🖥️[**Code**](https://github.com/yfguo91/IM-Loss-Information-Maximization-Loss-for-Spiking-Neural-Networks) 📰[**Paper**](https://openreview.net/pdf?id=Jw34v_84m2b)
+
 **Yufei Guo**\*, Yuanpei Chen\*, Liwen Zhang, Xiaode Liu, YingLei Wang, Xuhui Huang, Zhe Ma
   
 - We design a novel loss, IM-Loss, which can directly maximize the information expressiveness of an SNN, and introduce the ESG method for training SNN in a more appropriate way by incorporating a dynamically changing coefficient into a differentiable asymptotic function.
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/reloss.PNG' alt="sym" width="100%"></div></div>
