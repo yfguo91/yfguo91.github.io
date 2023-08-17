@@ -44,6 +44,8 @@ I have published more than 100 papers at the top international AI conferences wi
 
 [Direct Learning-Based Deep Spiking Neural Networks: A Review](https://arxiv.org/abs/2305.19725)
 
+🖥️[**Project**](https://github.com/yfguo91/Awesome-Spiking-Neural-Networks) 📰[**Paper**](https://arxiv.org/abs/2305.19725)
+
 **Yufei Guo**, Xuhui Huang, Zhe Ma
 
 - In this paper, we present a comprehensive survey of these direct learning-based deep SNN works, mainly categorized into accuracy improvement methods, efficiency improvement methods, and temporal dynamics utilization methods.
@@ -67,7 +69,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/rmploss.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/rmploss.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks](https://arxiv.org/pdf/2308.06787.pdf)
