@@ -67,9 +67,7 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 -->
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/rmploss.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/rmploss.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks](https://arxiv.org/pdf/2308.06787.pdf)
@@ -80,7 +78,7 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/mpbn.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/mpbn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Membrane Potential Batch Normalization for Spiking Neural Networks](https://arxiv.org/pdf/2308.08359.pdf) 
