@@ -25,6 +25,7 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2023.07*: &nbsp;🎉 Two first-authored papers for spiking neural network are accepted by ICCV 2023.
 - *2023.06*: &nbsp;🎉 One first-authored paper for reviewing spiking neural network is accepted by the Frontiers in Neuroscience journal.
 - *2023.04*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by the Pattern Recognition journal.
 - *2023.02*: &nbsp;🎉 Two papers are accepted by CVPR2023, including one corresponding-authored paper for 3D object detection.
@@ -64,10 +65,38 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 -->
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/rmploss.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks](https://arxiv.org/pdf/2308.06787.pdf)
+
+**Yufei Guo**\*, Xiaode Liu\*, Yuanpei Chen, Liwen Zhang, Weihang Peng, Yuhan Zhang, Xuhui Huang, Zhe Ma
+  
+- This paper aims to address the information loss problem caused by the 0/1 spike quantization of SNNs. We introduce RMP-Loss to adjust the membrane potential distribution which is directly related to quantization error to a range close to the spikes to reduce the quantization error. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/mpbn.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Membrane Potential Batch Normalization for Spiking Neural Networks](https://arxiv.org/pdf/2308.08359.pdf) 
+
+🖥️[**Code**](https://github.com/yfguo91/MPBN) 📰[**Paper**](https://arxiv.org/pdf/2308.08359.pdf)
+
+**Yufei Guo**\*, Yuhan Zhang\*, Yuanpei Chen, Weihang Peng, Xiaode Liu, Liwen Zhang, Xuhui Huang, Zhe Ma
+  
+- In the paper, we advocated adding the MPBN before the firing function to regulate the disturbed data flow again. We also provided a training-inference-decoupled re-parameterization technique to fold the trained MPBN into the firing threshold to eliminate the extra time burden induced by MPBN in the inference time.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2023</div><img src='images/distill.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Joint A-SNN: Joint Training of Artificial and Spiking Neural Networks via Self-Distillation and Weight Factorization](https://linkinghub.elsevier.com/retrieve/pii/S0031320323003400) 
+
+🖥️[**Code**](https://github.com/yfguo91/Joint-A-SNN) 📰[**Paper**](https://linkinghub.elsevier.com/retrieve/pii/S0031320323003400)
 
 **Yufei Guo**\*, Weihang Peng\*, Yuanpei Chen, Liwen Zhang, Xiaode Liu, Xuhui Huang, Zhe Ma
   
