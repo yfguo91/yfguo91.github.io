@@ -25,6 +25,7 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2023.09*: &nbsp;🎉 One corresponding-authored paper for applying spiking neural network to point cloud is accepted by NeurIPS 2023.
 - *2023.07*: &nbsp;🎉 Two first-authored papers for spiking neural network are accepted by ICCV 2023.
 - *2023.06*: &nbsp;🎉 One first-authored paper for reviewing spiking neural network is accepted by the Frontiers in Neuroscience journal.
 - *2023.04*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by the Pattern Recognition journal.
@@ -39,7 +40,7 @@ I have published more than 100 papers at the top international AI conferences wi
 # 📝 Publications 
 
 ## 📓 Review
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Neuroscience 2022</div><img src='images/review.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Neuroscience 2023</div><img src='images/review.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Direct Learning-Based Deep Spiking Neural Networks: A Review](https://arxiv.org/abs/2305.19725)
@@ -174,6 +175,19 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 
 
 ## 📹 Computer vision
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/spikingcloud.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spiking PointNet: Spiking Neural Networks for Point Clouds](https://openaccess.thecvf.com/content/CVPR2023/papers/Ming_Deep_Dive_Into_Gradients_Better_Optimization_for_3D_Object_Detection_CVPR_2023_paper.pdf)
+
+🖥️[**Code**](https://github.com/ming71/GCIoU-loss) 📰[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Ming_Deep_Dive_Into_Gradients_Better_Optimization_for_3D_Object_Detection_CVPR_2023_paper.pdf)
+
+Dayong Ren, Zhe Ma, Yuanpei Chen, Weihang Peng, Xiaode Liu, Yuhan Zhang, **Yufei Guo**\* (Corresponding Author).
+  
+- In this paper, we have presented Spiking PointNet, the first spiking neural network (SNN) specifically designed for efficient deep learning on point clouds.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/gciou.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -181,7 +195,7 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 
 🖥️[**Code**](https://github.com/ming71/GCIoU-loss) 📰[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Ming_Deep_Dive_Into_Gradients_Better_Optimization_for_3D_Object_Detection_CVPR_2023_paper.pdf)
 
-Qi Ming, Lingjuan Miao, Zhe Ma, Lin Zhao, Zhiqiang Zhou\*, Xuhui Huang, Yuanpei Chen, **Yufei Guo**\*
+Qi Ming, Lingjuan Miao, Zhe Ma, Lin Zhao, Zhiqiang Zhou\*, Xuhui Huang, Yuanpei Chen, **Yufei Guo**\* (Corresponding Author).
   
 - In this paper, we demonstrate through experiments and mathematical proof that the gradients of 3D IoU loss w.r.t. angle error and the object scale change abnormally during training. Then, we propose a gradient-correction IoU loss for optimizing the gradient.
 </div>
