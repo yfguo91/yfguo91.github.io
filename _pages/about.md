@@ -182,7 +182,7 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 
 🖥️[**Code**](https://github.com/ming71/GCIoU-loss) 📰[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Ming_Deep_Dive_Into_Gradients_Better_Optimization_for_3D_Object_Detection_CVPR_2023_paper.pdf)
 
-Dayong Ren, Zhe Ma, Yuanpei Chen, Weihang Peng, Xiaode Liu, Yuhan Zhang, **Yufei Guo**\* (Corresponding Author).
+Dayong Ren, Zhe Ma, Yuanpei Chen, Weihang Peng, Xiaode Liu, Yuhan Zhang, **Yufei Guo**\*, **Corresponding Author**.
   
 - In this paper, we have presented Spiking PointNet, the first spiking neural network (SNN) specifically designed for efficient deep learning on point clouds.
 </div>
@@ -195,7 +195,7 @@ Dayong Ren, Zhe Ma, Yuanpei Chen, Weihang Peng, Xiaode Liu, Yuhan Zhang, **Yufei
 
 🖥️[**Code**](https://github.com/ming71/GCIoU-loss) 📰[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Ming_Deep_Dive_Into_Gradients_Better_Optimization_for_3D_Object_Detection_CVPR_2023_paper.pdf)
 
-Qi Ming, Lingjuan Miao, Zhe Ma, Lin Zhao, Zhiqiang Zhou\*, Xuhui Huang, Yuanpei Chen, **Yufei Guo**\* (Corresponding Author).
+Qi Ming, Lingjuan Miao, Zhe Ma, Lin Zhao, Zhiqiang Zhou\*, Xuhui Huang, Yuanpei Chen, **Yufei Guo**\*, **Corresponding Author**.
   
 - In this paper, we demonstrate through experiments and mathematical proof that the gradients of 3D IoU loss w.r.t. angle error and the object scale change abnormally during training. Then, we propose a gradient-correction IoU loss for optimizing the gradient.
 </div>
