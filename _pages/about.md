@@ -30,12 +30,6 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2023.06*: &nbsp;🎉 One first-authored paper for reviewing spiking neural network is accepted by the Frontiers in Neuroscience journal.
 - *2023.04*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by the Pattern Recognition journal.
 - *2023.02*: &nbsp;🎉 Two papers are accepted by CVPR2023, including one corresponding-authored paper for 3D object detection.
-- *2022.09*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by NeurIPS 2022.
-- *2022.09*: &nbsp;🎉 I get the support by national natural science foundation of China 2022.
-- *2022.07*: &nbsp;🎉 Two first-authored papers for spiking neural network are accepted by ECCV 2022.
-- *2022.04*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by CVPR 2022. 
-- *2021.09*: &nbsp;🎉 One first-authored paper about mesh smoothing based on neural network is accepted by Applied Mathematical Modelling Journal.
-- *2021.09*: &nbsp;🎉 One co-first-authored paper for spiking neural network is accepted by NeurIPS 2021. 
 
 # 📝 Publications 
 
@@ -264,6 +258,7 @@ Qi Ming, Lingjuan Miao, Zhe Ma, Lin Zhao, Zhiqiang Zhou\*, Xuhui Huang, Yuanpei 
 - *2022.07*, I am invited to talk about Spiking Neural Networks at the conference on mathematics and aerospace.
 
 # 🎖 Honors and Awards
+- *2023.11* The Science and Technology Youth Talent Support Project of China Association for Science and Technology 2023.
 - *2022.09* The National Natural Science Foundation of China 2022.
 
 # 📖 Educations
