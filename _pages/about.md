@@ -172,9 +172,9 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/spikingcloud.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Spiking PointNet: Spiking Neural Networks for Point Clouds](https://openaccess.thecvf.com/content/CVPR2023/papers/Ming_Deep_Dive_Into_Gradients_Better_Optimization_for_3D_Object_Detection_CVPR_2023_paper.pdf)
+[Spiking PointNet: Spiking Neural Networks for Point Clouds](https://arxiv.org/pdf/2310.06232.pdf)
 
-🖥️[**Code**](https://github.com/ming71/GCIoU-loss) 📰[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Ming_Deep_Dive_Into_Gradients_Better_Optimization_for_3D_Object_Detection_CVPR_2023_paper.pdf)
+🖥️[**Code**](https://github.com/ming71/GCIoU-loss) 📰[**Paper**](https://arxiv.org/pdf/2310.06232.pdf)
 
 Dayong Ren, Zhe Ma, Yuanpei Chen, Weihang Peng, Xiaode Liu, Yuhan Zhang, **Yufei Guo**\*, **Corresponding Author**.
   
