@@ -258,7 +258,7 @@ Qi Ming, Lingjuan Miao, Zhe Ma, Lin Zhao, Zhiqiang Zhou\*, Xuhui Huang, Yuanpei 
 - *2022.07*, I am invited to talk about Spiking Neural Networks at the conference on mathematics and aerospace.
 
 # 🎖 Honors and Awards
-- *2023.11* The Science and Technology Youth Talent Support Project of China Association for Science and Technology 2023.
+- *2023.11* The Youth Talent Support Project of China Association for Science and Technology 2023.
 - *2022.09* The National Natural Science Foundation of China 2022.
 
 # 📖 Educations
