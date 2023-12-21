@@ -72,7 +72,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 **Yufei Guo**\*,  Yuanpei Chen\*, Xiaode Liu, Weihang Peng, Yuhan Zhang, Xuhui Huang, Zhe Ma
   
-- To mitigate the problem, we proposed a ternary spike neuron. This neuron can increase the information capacity greatly and enjoys event-driven and addition-only advantages still. we also presented an improved ternary spike neuron by embedding a trainable factor in it to learn the suitable spike amplitude.
+- To mitigate the information loss problem, we proposed a ternary spike neuron. This neuron can increase the information capacity greatly and enjoys event-driven and addition-only advantages still. we also presented an improved ternary spike neuron by embedding a trainable factor in it to learn the suitable spike amplitude.
 </div>
 </div>
 
