@@ -63,6 +63,20 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/ternary.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks](https://arxiv.org/pdf/2312.06372.pdf) 
+
+🖥️[**Code**](https://github.com/yfguo91/Ternary-Spike) 📰[**Paper**](https://arxiv.org/pdf/2312.06372.pdf)
+
+**Yufei Guo**\*,  Yuanpei Chen\*, Xiaode Liu, Weihang Peng, Yuhan Zhang, Xuhui Huang, Zhe Ma
+  
+- To mitigate the problem, we proposed a ternary spike neuron. This neuron can increase the information capacity greatly and enjoys event-driven and addition-only advantages still. we also presented an improved ternary spike neuron by embedding a trainable factor in it to learn the suitable spike amplitude.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/rmploss.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
