@@ -25,6 +25,7 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉 One first-authored paper about transferring CLIP to neuromorphic data recognition is accepted by the IEEE Signal Processing Letters journal.
 - *2023.12*: &nbsp;🎉 Three papers are accepted by AAAI2024, including one first-authored paper and one co-corresponding-authored paper for spiking neural networks.
 - *2023.09*: &nbsp;🎉 One corresponding-authored paper for applying spiking neural network to point cloud is accepted by NeurIPS 2023.
 - *2023.07*: &nbsp;🎉 Two first-authored papers for spiking neural network are accepted by ICCV 2023.
