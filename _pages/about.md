@@ -184,6 +184,20 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 
 
 ## 📹 Computer vision
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SPL 2024</div><img src='images/NeuroCLIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NeuroCLIP: Neuromorphic Data Understanding by CLIP and SNN](https://arxiv.org/abs/2306.12073) 
+
+🖥️[**Code**](https://github.com/yfguo91/MPBN) 📰[**Paper**](https://arxiv.org/abs/2306.12073)
+
+**Yufei Guo**\*, Yuanpei Chen\*, Zhe Ma
+  
+- In the paper, we proposed NeuroCLIP for neuromorphic data understanding, which as far as we know, is one of the few works solving the “unseen” tasks in this field. The proposed NeuroCLIP can conduct zero-shot recognition on neuromorphic data efficiently without any extra training.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/spikingcloud.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
