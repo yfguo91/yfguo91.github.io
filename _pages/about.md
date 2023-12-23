@@ -190,7 +190,7 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 
 [NeuroCLIP: Neuromorphic Data Understanding by CLIP and SNN](https://arxiv.org/abs/2306.12073) 
 
-🖥️[**Code**](https://github.com/yfguo91/MPBN) 📰[**Paper**](https://arxiv.org/abs/2306.12073)
+🖥️[**Code**](https://github.com/yfguo91/NeuroCLIP) 📰[**Paper**](https://arxiv.org/abs/2306.12073)
 
 **Yufei Guo**\*, Yuanpei Chen\*, Zhe Ma
   
