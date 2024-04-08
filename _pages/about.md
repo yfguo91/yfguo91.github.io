@@ -64,6 +64,20 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 -->
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/sscl.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing Representation of Spiking Neural Networks via Similarity-Sensitive Contrastive Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29635) 
+
+📰[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/29635)
+
+Yuhan Zhang, Xiaode Liu, Yuanpei Chen, Weihang Peng, **Yufei Guo**\*, Xuhui Huang, Zhe Ma\*
+  
+- To enhance the representation of SNNs, this work proposes a new similarity-sensitive contrastive learning framework, where SNN could capture significantly more information from its ANN counterpart to improve representation by Mutual Information (MI) maximization with layer-wise sensitivity to similarity.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/ternary.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
