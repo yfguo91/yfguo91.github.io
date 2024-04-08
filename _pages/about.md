@@ -72,7 +72,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 📰[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/29635)
 
-Yuhan Zhang, Xiaode Liu, Yuanpei Chen, Weihang Peng, **Yufei Guo**\*, Xuhui Huang, Zhe Ma\*
+Yuhan Zhang, Xiaode Liu, Yuanpei Chen, Weihang Peng, **Yufei Guo**\*, Xuhui Huang, Zhe Ma\*, **Corresponding Author**.
   
 - To enhance the representation of SNNs, this work proposes a new similarity-sensitive contrastive learning framework, where SNN could capture significantly more information from its ANN counterpart to improve representation by Mutual Information (MI) maximization with layer-wise sensitivity to similarity.
 </div>
