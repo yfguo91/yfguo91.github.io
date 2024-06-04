@@ -49,6 +49,19 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Control Theory & Applications 2024</div><img src='images/review2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Research Advance in Intelligent Control Based on Spiking Neural Networks](https://kns.cnki.net/kcms2/article/abstract?v=lQz6UQjnwp-oAcfCqLB9hG8R7bjE2Jmse0sz1_4OXd-hO_BQsATDJO7US6b4YZbyazko7DkwDQdQxvmnhu1Jjtn6P9ImsmsMvY-TRrJ94YmnoHrujC0Ayg==&uniplatform=NZKPT)
+
+📰[**Paper**](https://kns.cnki.net/kcms2/article/abstract?v=lQz6UQjnwp-oAcfCqLB9hG8R7bjE2Jmse0sz1_4OXd-hO_BQsATDJO7US6b4YZbyazko7DkwDQdQxvmnhu1Jjtn6P9ImsmsMvY-TRrJ94YmnoHrujC0Ayg==&uniplatform=NZKPT)
+
+Xiaode Liu, **Yufei Guo**, Xuhui Huang, Zhe Ma
+
+- This paper presents a comprehensive review of the development of intelligent control based on SNNs and systematically summarizes relevant SNN control applications. The purpose of this paper is to provide a technical framework for intelligent control based on the SNN approach, thereby facilitating its rapid development and application.
+</div>
+</div>
+
 ## 🖥️ Machine learning
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
